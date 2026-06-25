@@ -1,11 +1,11 @@
-# 🪲 Informe del Proyecto: BugLog
-### FINAL — Plataformas de Desarrollo (ACN4BV)
+Informe del Proyecto: BugLog
+PARCIAL 2 - Diseño de Sistemas.
 
-**Repositorio:** https://github.com/AnthonyNadsat/final-pd-acn4bv-galarza-salazar
+**Repositorio:** [https://github.com/AnthonyNadsat/final-pd-acn4bv-galarza-salazar](https://github.com/AnthonyNadsat/final-dds-acn5bv-galarza-salazar-william)
 
-**Equipo:** Galarza Lukas & Salazar Anthony
+**Equipo:** Galarza Lukas, Salazar Anthony, Williams Mariano
 
-**Descripción:** Proyecto final de Plataformas de Desarrollo — Escuela Da Vinci
+**Descripción:** Entrega Parcial 2 - Diseño de Sistemas (_cuatrimestre 1 - 2026_)
 
 **Profesor:** Sergio Medina
 
