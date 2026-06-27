@@ -1,13 +1,17 @@
-Informe del Proyecto: BugLog
+<img width="51" height="54" alt="image" src="https://github.com/user-attachments/assets/bf5512c8-6b6e-4bcf-86bf-1244d44d16b5" />
+**Informe del Proyecto: BugLog**
 PARCIAL 2 - Diseño de Sistemas.
 
-**Repositorio:** [https://github.com/AnthonyNadsat/final-pd-acn4bv-galarza-salazar](https://github.com/AnthonyNadsat/final-dds-acn5bv-galarza-salazar-william)
+**Repositorio:**
+https://github.com/AnthonyNadsat/parcial2-dds-acn5bv-galarza-salazar-williams
 
-**Equipo:** Galarza Lukas, Salazar Anthony, Williams Mariano
+**Equipo:**
+- Galarza Lukas
+- Salazar Anthony
+- Williams Mariano
 
-**Descripción:** Entrega Parcial 2 - Diseño de Sistemas (_cuatrimestre 1 - 2026_)
-
-**Profesor:** Sergio Medina
+**Descripción:** 
+- Entrega Parcial 2 - Diseño de Sistemas (_cuatrimestre 1 - 2026_)
 
 ---
 
